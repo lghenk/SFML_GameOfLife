@@ -1,0 +1,12 @@
+﻿  Application.cpp
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.h(2): error C2059: syntax error: '<'
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.h(3): error C2143: syntax error: missing ';' before '{'
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.h(3): error C2447: '{': missing function header (old-style formal list?)
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.h(9): error C2059: syntax error: '<'
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(5): error C2653: 'Application': is not a class or namespace name
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(5): error C2143: syntax error: missing ';' before '{'
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(5): error C2447: '{': missing function header (old-style formal list?)
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(10): error C2653: 'Application': is not a class or namespace name
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(12): warning C4508: 'Application': function should return a value; 'void' return type assumed
+c:\users\heijne\dropbox\bewijzenmap\p2.1\gpr\gameoflife\gameoflife\application.cpp(14): error C2653: 'Application': is not a class or namespace name
